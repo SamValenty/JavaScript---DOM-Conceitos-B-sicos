@@ -1,4 +1,4 @@
-// Contador de cliques
+// Contador de Cliques
 let contador = 0;
 
 const Contador = document.getElementById("contador");
